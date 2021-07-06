@@ -1,4 +1,4 @@
-# Face-mask-classification-with-tensorflow
+# Face-mask-Classification-with-TensorFlow
 
 This project aims to detect whether or not a person is wearing a face mask.The image input which you give to the system will be analyzed
 and the predicted result will be given as output.
